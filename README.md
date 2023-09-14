@@ -1,6 +1,6 @@
 ### Hi there, I'm Gala 👋
 
-
+#
 - ✍ You can find my SQL portfolio here
 - 🌱 I’m currently learning Python
 - 👀 I’m interested in improving my skills in Python and SQL
