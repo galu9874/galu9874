@@ -8,18 +8,16 @@
 - ⚡ Fun fact: ...
 
 
-
-
-**Data Visualization Tools:**
+#
+### **Data Analytics Tools:**
 
 ☑ SQL
 
 ☑ Microsoft Excel
 
 
-
-
-**Data Visualization Tools:**
+#
+### **Data Visualization Tools:**
 
 ☑ Microsoft Excel
 
