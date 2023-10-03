@@ -2,7 +2,7 @@
 #
 <br>
 
-- ✍ You can find my SQL portfolio here
+- ✍ You can find my SQL portfolio [here](https://github.com/galu9874/SQL)
 - 🌱 I’m currently learning Python
 - 👀 I’m interested in improving my skills in Python and SQL
 - ❤️ I love visualizations
