@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Python
 - 👀 I’m interested in improving my skills in Python and SQL
 - ❤️ I love visualizations
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Dark chocolate > milk chocolate 
 
 <br>
 
